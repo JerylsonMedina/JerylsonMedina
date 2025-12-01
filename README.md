@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm **Jerylson B. Medina**! 👋
+
+Welcome to my GitHub profile!  
+I am a **BS Information Technology** student with a passion for technology, learning, and building projects.
+
+---
+
+## 🎓 Education
+- **BS Information Technology**   
+  New Era University  
+  2024 – Present
+
+---
+
+## 📜 Certifications
+- [SQL and Relational Databases 101](PASTE_YOUR_CERTIFICATE_LINK_HERE)
+
+---
+
+## 🛠 Skill Sets
+- **Programming:** Java, JavaScript
+- **Databases:** SQL
+- **Tools:** HTML, VS Code
+
+---
+
+## 📬 Let's Connect!
+- **Email:** jerylsonmedina@gmail.com
+
 
 <!--
 **JerylsonMedina/JerylsonMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
