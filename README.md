@@ -13,7 +13,7 @@ I am a **BS Information Technology** student with a passion for technology, lear
 ---
 
 ## 📜 Certifications
-- [SQL and Relational Databases 101]([PASTE_YOUR_CERTIFICATE_LINK_HERE](https://courses.cognitiveclass.ai/certificates/7d2c334dbd0b4daeab3e7c12f8a1aaa0)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/7d2c334dbd0b4daeab3e7c12f8a1aaa0)
 
 ---
 
