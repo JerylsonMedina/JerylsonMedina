@@ -15,7 +15,7 @@ I am a **BS Information Technology** student with a passion for technology, lear
 ## 📜 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/7d2c334dbd0b4daeab3e7c12f8a1aaa0)
 - [Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A768C10ABE8FC2F22DD331E1C3B7AF92EA1918691A095FCEFE60EDD080FC949B)
-- [OCI AI Foundations Associate (2025)](https://www.jerylson.com)
+- [OCI AI Foundations Associate (2025)]([https://www.jerylson.com](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A768C10ABE8FC2F22DD331E1C3B7AF92EA1918691A095FCEFE60EDD080FC949C)
 ---
 
 ## 🛠 Skill Sets
